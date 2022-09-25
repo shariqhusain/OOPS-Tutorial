@@ -1,4 +1,3 @@
-import javax.print.attribute.standard.PrinterInfo;
 
 class Animal {
     String name;
